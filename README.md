@@ -44,6 +44,6 @@ Este comando adicionar a origin do seu repositório a qual você poderá estar e
 
 [13] git remote -v => Este comando irá listar para você o endereço do repositório que você adicionou em seu projeto local
 
-[14] git push -u origin master => Após o commit de todas suas alterações este comando é incial para enviar seu projeto a núvem e deverá neste formato ser executado uma vez dentro desta pasta raiz, após isso quando for necessário realizar um novo upload execute apena  git push, mas atente-se para realizar os adds e os commits -m antes deste comando ok!
+[14] git push -u origin master => Após o commit de todas suas alterações este comando é inicial para enviar seu projeto a núvem e deverá neste formato ser executado uma vez dentro desta pasta raiz, após isso quando for necessário realizar um novo upload execute apena  git push, mas atente-se para realizar os adds e os commits -m antes deste comando ok!
 
 
