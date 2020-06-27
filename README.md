@@ -1,14 +1,14 @@
 # GIT & GITHUB
 
-Comandos inciais para o uso do Git + Github em seu projeto.
+* Comandos inciais para o uso do Git + Github em seu projeto.
 
 # Baixe e instale o GIT em sua márquina
-link: https://git-scm.com/downloads
+* link: https://git-scm.com/downloads
 
 # Após isso crie uma conta 
-link: https://github.com/
+* link: https://github.com/
 
-Faça login e crie um repositório para trabalhar em um novo projeto 
+* Faça login e crie um repositório para trabalhar em um novo projeto 
 
 * Antes de iniciarmos é importante que se você desejar evitar que arquivos pesados sejam 
 enviados ao seu repositório online, é importante que você crie um arquivo dentro de sua pasta onde contém os arquivos que queira enviar ao seu projeto com o nome .gitignore, e dentro do mesmo
