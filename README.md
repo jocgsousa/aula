@@ -39,7 +39,7 @@ Os comandos a seguir devem ser executados dentro da pasta raiz o seu projeto ond
 
 [11] git branch -D nome-branch => Voce irá deletar esta branch do seu projeto localizado na sua máquina.
 
-[12] git remote add origin <a href='#'>https://github.com/jocgsousa/aula</a> + enter =>
+[12] git remote add origin <a href='#'>https://github.com/jocgsousa/aula</a> =>
 Este comando adicionar a origin do seu repositório a qual você poderá estar enviandos seus projetos locais para ela.
 
 [13] git remote -v => Este comando irá listar para você o endereço do repositório que você adicionou em seu projeto local
