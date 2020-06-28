@@ -25,7 +25,7 @@ Os comandos a seguir devem ser executados dentro da pasta raiz do seu projeto on
 
 [4] git status => exibe o estado da linha do tempo com os arquivos adicionados pelo comando anterior ou alterados e não alterados, e os arquivos não adicionados na linha do tempo também;
 
-[5] git commit -m "Comentário breve" => Ao realizar um commit você está informando a linha do tempo que os arquivos foram alterados e que já estão prontos para envio do projeto para o github.
+[5] git commit -m "Comentário breve" => Ao realizar um commit você está informando a linha do tempo que os arquivos foram alterados e que já estão prontos para envio do projeto para o GitHub.
 
 [6] git log => Exibe os registros de commit da linha do projeto com suas respectivas alterações e id's dos commits realizados pelo Dev.
 
