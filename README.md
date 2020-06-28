@@ -15,7 +15,7 @@ enviados ao seu repositório online, é importante que você crie um arquivo den
 adicionar os nomes dos arquivos juntamente com a sua extensão, ou o nome da pasta caso queira evitar o upload do mesmo.
 Exemplo: 'node_modules', com isso o GitHub será impedido de fazer upload desta pasta para dentro do seu projeto no servidor GitHub.
 
-Os comandos a seguir devem ser executados dentro da pasta raiz o seu projeto onde contém os arquivos que queira trabalhar.
+Os comandos a seguir devem ser executados dentro da pasta raiz do seu projeto onde contém os arquivos que queira trabalhar.
 
 [1] git init => Inicializa a linha do tempo
 
