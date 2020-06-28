@@ -39,11 +39,15 @@ Os comandos a seguir devem ser executados dentro da pasta raiz o seu projeto ond
 
 [11] git branch -D nome-branch => Voce irá deletar esta branch do seu projeto localizado na sua máquina.
 
-[12] git remote add origin <a href='#'>https://github.com/jocgsousa/aula</a> =>
+[12] git remote add origin https://github.com/jocgsousa/aula =>
 Este comando adicionar a origin do seu repositório a qual você poderá estar enviandos seus projetos locais para ela.
 
 [13] git remote -v => Este comando irá listar para você o endereço do repositório que você adicionou em seu projeto local
 
 [14] git push -u origin master => Após o commit de todas suas alterações este comando é inicial para enviar seu projeto a núvem e deverá neste formato ser executado uma vez dentro desta pasta raiz, após isso quando for necessário realizar um novo upload execute apena  git push, mas atente-se para realizar os adds e os commits -m antes deste comando ok!
+
+[15] git pull => Faz a atualização do seu projeto local, pegando todas as alterações realizadas em nuvem ou por outro colaborador do projeto.
+
+[16] git clone https://github.com/jocgsousa/aula.git => Faz uma cópia inteira do repositório online 'aula' para o seu computador local.
 
 
